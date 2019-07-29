@@ -1,0 +1,18 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.left {
+    margin-left: 0;
+    float: left;
+    position: absolute;
+    top: 25%;
+}
+
+.right {
+    margin-right: 0;
+    float: right;
+    position: absolute;
+    top: 25%;
+}
